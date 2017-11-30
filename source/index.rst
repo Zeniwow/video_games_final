@@ -11,6 +11,21 @@ Welcome to Video Games's documentation!
    :caption: Contents:
 
    xbox/index
+   xbox2/index
+   xbox3/index
+   xbox4/index
+   pc/index
+   pc2/index
+   pc3/index
+   pc4/index
+   ps/index
+   ps2/index
+   ps3/index
+   ps4/index
+   nintendo/index
+   nintendo2/index
+   nintendo3/index
+   nintendo4/index
 
 
 
