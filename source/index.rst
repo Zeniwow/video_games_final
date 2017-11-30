@@ -10,6 +10,8 @@ Welcome to Video Games's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   xbox/index
+
 
 
 Indices and tables
