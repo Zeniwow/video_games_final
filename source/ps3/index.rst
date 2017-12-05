@@ -1,2 +1,2 @@
-PlayStation
-===========
+PlayStation Exclusives
+======================

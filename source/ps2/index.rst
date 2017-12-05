@@ -1,6 +1,14 @@
 The History of PlayStation
 ==========================
 
+PlayStation has been around for () years and are consistently putting out new 
+and improved systems. Their first ever gaming system, the PlayStation One has 
+sold over 102 million units which makes it the fourth most bought gaming 
+system of all time. Later to be beat by its predecessor, the PlayStation 2 with 
+155 million units sold. Making the PlayStation 2 the most sold game console of
+all time.
+
+
 
 PlayStation Console History
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
