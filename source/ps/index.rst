@@ -6,4 +6,10 @@ product line not only includes the PlayStation but also has TV, audio, cameras,
 and cell phones. Sony just doesn't make products, they also make movies and 
 music with Sony Pictures Entertainment and Sony Music.
 
-Sony: https://www.sony.com/
+PlayStation has the most sold gaming system ever with their PlayStation 2.
+Compared to its rival, the Xbox, PlayStation always out sells Xbox. Thanks to the
+help of PlayStation exclusives and cheaper prices.
+
+`Sony`_ 
+
+.. _Sony: https://www.sony.com/
