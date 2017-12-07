@@ -5,7 +5,7 @@ Information About Wii
 ---------------------
 The **Nintendo Wii**, a console created in 2006, is a
 interactive gameplay with the use of wireless controllers 
-for better experience.  It uses infrared detection to sense
+for a better experience.  It uses infrared detection to sense
 the position of the controllers.  The controllers are 
 designed to allow for movement gestures as well as easy 
 button-pressing and are connected with the console via 
