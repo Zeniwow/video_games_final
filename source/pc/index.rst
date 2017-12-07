@@ -9,11 +9,13 @@ Benchmark Groups
 Many organizations have formed over the years to help gamers benchmark their builds and squeeze out all the performance they can out of any part that hits the market. Among these organizations ones like AnandTech and Tom’s Hardware Guide have become some of the most popular and trusted benchmarker’s.
 
 
-Source:
-.. _Wikipedia: https://en.wikipedia.org/wiki/Gaming_computer
+Source: `Wikipedia`_
 
 .. figure:: oldpc.jpg
     :width: 50%
 
-    Source:
-    .. _Reddit: https://www.reddit.com/r/pcmasterrace/comments/21yca5/with_all_the_posts_of_old_pc_parts_here_is_my/
+    Source: `Reddit`_
+
+.. _Wikipedia: https://en.wikipedia.org/wiki/Gaming_computer
+
+.. _Reddit: https://www.reddit.com/r/pcmasterrace/comments/21yca5/with_all_the_posts_of_old_pc_parts_here_is_my/

@@ -20,4 +20,6 @@ Sony Playstation VR $344.99
 .. image:: vr.jpg
     :width: 50%
 
-.. _Source: https://www.pcmag.com/article/342537/the-best-virtual-reality-vr-headsets
+Source: `HTCVive`_
+
+.. _HTCVive: https://www.pcmag.com/article/342537/the-best-virtual-reality-vr-headsets
