@@ -3,12 +3,12 @@ Gaming PC's- The guts
 
 Every gaming computer has the same basic components:
  
-* a CPU (Central Processing Unit), 
-* a graphics card of some sort (practically required for any modern games), 
-* a motherboard, Memory, storage drive (commonly SSD or HDD), 
-* a power supply unit, 
-* a cooling system, 
-* and finally a case. 
+* a CPU (Central Processing Unit)
+* a graphics card of some sort (practically required for any modern games)
+* a motherboard, Memory, storage drive (commonly SSD or HDD)
+* a power supply unit
+* a cooling system
+* and finally a case
 
 CPU’s have come a long way since gaming computers came about and currently the brands Intel and AMD dominate the market. Today, most gaming computers are being built with either Intel’s Kaby lake series or AMD’s Ryzen series CPU’s. 
 Graphics Cards have made tremendous progress as well and currently NVIDIA and AMD dominate that market. NVIDIA’s current top lineup include their GTX 10 series cards with their flagship card being the GTX Titan X coming in at a staggering $1200.00 per card. AMD has responded with their Radeon R series cards which, although not as popular as NVIDA, still control a sizeable portion of the market. 
@@ -20,5 +20,7 @@ Finally, cooling systems consist of either a heat sink and fan setup, or a liqui
 
 .. image:: titan.png
     :width: 50%
+
+Source: `GTX1080`_
 
 .. _GTX1080: https://www.nvidia.com/en-us/geforce/products/10series/geforce-store/ 
