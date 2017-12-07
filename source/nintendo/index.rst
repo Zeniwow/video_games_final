@@ -2,7 +2,7 @@ History of Nintendo
 ===================
 
 During the year of 1989, Fusajiro Yamauchi, a Japenese man,
-began to make playing cards called "Hanafuda".  This was the
+began to make playing cards called "Hanafuda".  This was
 seen as the first step in the creation of what we know as
 Nintendo.  13 years later, Yamauchi created a western-style
 playing card.  These became popular not only in Japan, but 
@@ -16,9 +16,9 @@ created an image-projection system used in arcades.  This
 image-projection system was a 16mm film projector and at 
 this time America found great interest and these machines 
 started to get exported into the US.  A year later, Nintendo 
-generated a video game system and once got the baseline for 
-a videogame system they took it one step further and in 1977 
-they started to develop home-use videogames instead of 
+generated a video game system and once they got the baseline for 
+a video game system they took it one step further and in 1977 
+they started to develop home-use video games instead of 
 arcade only machines.  This is where the Nintendo became 
 what we know as Nintendo today.
 
