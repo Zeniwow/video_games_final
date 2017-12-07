@@ -20,5 +20,3 @@ Xbox 360     ``****``
 Xbox One     ``*****``
 Xbox One X   ``*****``
 ============ =================
-
-**All reviews are based on Drew Geisert**
