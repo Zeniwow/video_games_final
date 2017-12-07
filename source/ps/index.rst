@@ -10,6 +10,17 @@ PlayStation has the most sold gaming system ever with their PlayStation 2.
 Compared to its rival, the Xbox, PlayStation always out sells Xbox. Thanks to the
 help of PlayStation exclusives and cheaper prices.
 
+.. image:: logo.png
+    :align: center
+
+Sources
+-------
+
 `Sony`_ 
 
 .. _Sony: https://www.sony.com/
+
+`Logo`_
+
+.. _Logo: https://seeklogo.com/free-vector-logos/playstation
+
