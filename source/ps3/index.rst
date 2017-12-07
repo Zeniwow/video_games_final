@@ -9,7 +9,12 @@ that power the PlayStation 4 Pro is able to stream and play games in 4k.
 
 The PlayStation 4 Pro comes with a 1TB hard drive, dualshock 4 controller, HDMI
 cable, and power cable. Everything you need to get started. You can upgrade to a
-bundle for a little more.
+bundle for a little more. Bundles are always coming out with new highly anticipated
+games. They come out with every system and along with adding a game, they sometimes
+change the color of the system itself! If you plan on getting a bundle and and
+don't want to pay a lot, wait a few months and they end up costing the same as
+PlayStation 4 itself.
+
 
 Bundle Prices
 ~~~~~~~~~~~~~
