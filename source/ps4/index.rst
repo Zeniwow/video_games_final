@@ -7,7 +7,6 @@ a lot of people own the VR. Current competitors include: Oculus Rift, HTC Vive,
 Samsung Gear VR, and the Google Daydream View.
 
 .. image:: vr.png
-    :align: right
 
 Top Games
 ---------
